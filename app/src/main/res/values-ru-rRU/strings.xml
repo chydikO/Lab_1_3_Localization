@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Туториал по локализации</string>
+    <string name="my_string_text">Мой Текст</string>
+</resources>
